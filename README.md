@@ -1,0 +1,1 @@
+This library is meant to implement to show ADX indicator.
